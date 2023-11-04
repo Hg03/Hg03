@@ -14,7 +14,7 @@ If planning to learn and build **machine learning** projects or going to prepare
 
 |Resource|Link|
 |--------|----|
-|🔥 Machine Learning Concepts|[Vinija mam's notes](https://vinija.ai/concepts/index.html)|
+|🔥 Machine Learning Concepts|[Vinija mam's notes](https://vinija.ai/concepts/index.html) / [Aman's notes](https://aman.ai/cs229/)|
 |🔺 Coding [pandas + sql] (on basis of data)|[practice on stratascratch](https://platform.stratascratch.com/coding?code_type=1)|
 |🔥 Learn **ML** concepts through visualisation|[mlu-explain](https://mlu-explain.github.io)|
 |🗃️ Data Structure & Algorithms|[Roman kurnovskii leetcode 75 question](https://romankurnovskii.com/en/tracks/algorithms-101/leetcode75/)|
